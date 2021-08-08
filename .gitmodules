@@ -1,0 +1,3 @@
+[submodule "exercicios-semana-do-js"]
+	path = exercicios-semana-do-js
+	url = https://github.com/Roger-Melo/exercicios-semana-do-js.git
